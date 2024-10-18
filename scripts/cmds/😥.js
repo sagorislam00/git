@@ -1,7 +1,7 @@
 const fs = require('fs');
 module.exports = {
   config: {
-    name: "Joy",
+    name: "😥",
     version: "1.0",
     author: "otineeeeyyyy",
     countDown: 5,

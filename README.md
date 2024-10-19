@@ -1,5 +1,5 @@
 <img src="https://i.imgur.com/PRI7bda.jpeg" alt="banner">
-<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> Goat Bot - Bot Chat Messenger</h1>
+<h1 align="center"><img src="./dashboard/images/logo-non-bg.png" width="22px"> 𝗝𝗢𝗬-𝗕𝗢𝗧 - 𝗝𝗢𝗬 𝗠𝗘𝗦𝗦𝗘𝗡𝗚𝗘𝗥 𝗖𝗛𝗔𝗧 𝗕𝗢𝗧</h1>
 
 <p align="center">
 	<a href="https://nodejs.org/dist/v16.20.0">

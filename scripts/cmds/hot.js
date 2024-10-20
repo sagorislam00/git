@@ -1,4 +1,4 @@
-.cmd install hot.js   module.exports = {
+ module.exports = {
   config: {
     name: "hot",
     aliases: ["lm10"],
